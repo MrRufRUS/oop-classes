@@ -1,0 +1,3 @@
+/Users/mrrufrusdark/University/Первый семестр 2022-2023/OOP/classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mrrufrusdark/University/Первый семестр 2022-2023/OOP/classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mrrufrusdark/University/Первый семестр 2022-2023/OOP/classes/cmake-build-debug/CMakeFiles/classes.dir
